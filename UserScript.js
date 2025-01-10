@@ -122,7 +122,7 @@
             baseIKI: 238.66,
             ikiSD: 111.60,
             rolloverRatio: 0.25,
-            errorRate: 0.9117,
+            errorRate: 0.0117,
             errorCorrectionRange: 3,  // Max chars to go back
             errorCorrectionChance: 0.8 // Chance that we'll correct an error
         },
@@ -130,7 +130,7 @@
             baseIKI: 180,
             ikiSD: 90,
             rolloverRatio: 0.3,
-            errorRate: 0.04,
+            errorRate: 0.02,
             errorCorrectionRange: 12,
             errorCorrectionChance: 0.55
         },
