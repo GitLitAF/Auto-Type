@@ -1,4 +1,4 @@
-I wrote this to be contrarian. There is no way to prove ai, only the quality of the final product. 
+This is an accessibility tool for those who cannot manually type.
 
 # Auto-Type
 UserScript Extension To Automatically Emulate Human Typing In Google Docs
