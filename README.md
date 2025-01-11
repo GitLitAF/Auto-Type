@@ -1,4 +1,4 @@
-I wrote this to reject the false sense of security offered by edit history. Make ya assignments creative and its a non-issue. 
+I wrote this to reject the false sense of security offered by edit history. This is dedicated to terrible teachers. 
 
 # Auto-Type
 UserScript Extension To Automatically Emulate Human Typing In Google Docs
