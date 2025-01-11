@@ -1,3 +1,5 @@
+I wrote this to reject the false sense of security offered by edit history. Make ya assignments creative and its a non-issue. 
+
 # Auto-Type
 UserScript Extension To Automatically Emulate Human Typing In Google Docs
 
@@ -72,4 +74,13 @@ If the simulator button doesn't appear:
 
 ## License
 
-This project is licensed under the AGPL-3.0 License - see the LICENSE file for details.
+This project is licensed under the APACHE-2.0 License - see the LICENSE file for details.
+I won't be stingy about giving you more rights if you ask me.
+
+## Notes
+The Time predictions are very off. I didnt fix them after adding the error correction action so it does not take that into account.
+Its unfortunatly very slow, but hey thats human typing for you. You can turn the speed up if you want, but to be realistic it would be
+good to add "thinking" pauses.
+
+If you feel inclined you should use this up to an agent. I like the idea but have better things to do. 
+
