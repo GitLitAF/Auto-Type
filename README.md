@@ -82,5 +82,5 @@ The Time predictions are very off. I didnt fix them after adding the error corre
 Its unfortunatly very slow, but hey thats human typing for you. You can turn the speed up if you want, but to be realistic it would be
 good to add "thinking" pauses.
 
-If you feel inclined you should use this up to an agent. I like the idea but have better things to do. 
+If you feel inclined you should hook this up to an agent. I like the idea but have cooler agents to make. 
 
