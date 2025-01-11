@@ -1,4 +1,4 @@
-I wrote this to reject the false sense of security offered by edit history. This is dedicated to terrible teachers. 
+I wrote this to be contrarian. There is no way to prove ai, only the quality of the final product. 
 
 # Auto-Type
 UserScript Extension To Automatically Emulate Human Typing In Google Docs
